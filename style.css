@@ -1,0 +1,272 @@
+.navbar-dark{
+    background-color: black;
+}
+
+.navbar-text{
+    text-align: center !important;
+    color: #dee2e6 !important;
+    display: flex !important;
+    justify-content: center !important;
+    position: relative;
+    left: 415px;
+}
+
+.row{
+    margin-top: 0px;
+}
+
+#col{
+    box-shadow: 2px 2px 4px  #dee2e6;
+}
+
+.center{
+    display: block;
+    margin-top: 40px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.profile-usertitle{
+    margin-top: 15px;
+}
+
+.Number{
+    margin-top: auto;
+    text-emphasis-color: blue;
+    color: blue;
+}
+
+.profile-userbuttons button{
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(221, 38, 38, 0.2), 0 6px 20px 0 rgba(228, 45, 45, 0.19);
+    background: #be1c1c;
+    display: inline-block;
+    border: red;
+    transition: all 0.4s ease 0s;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 70%;
+    padding: 1rem 0rem;
+    
+      
+}
+
+.texts{
+    margin-top: 20px;
+}
+
+.col-md-9 {
+    margin-top: 15px;
+}
+
+.img{
+    width: 75%;
+    margin-bottom: 15px ;
+    margin-right: 50px;
+}
+
+.contacts{
+    margin-top: 20px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.fa-phone{
+    -webkit-text-fill-color: white; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;
+}
+
+.contacts ul{
+    padding-left: 0pt;
+}
+
+.contacts ul li{
+    margin: 1.2em 0;
+}
+
+.details{
+    margin-top: 35px;
+}
+.details ul{
+    padding-left: 0pt;
+}
+
+.details ul li{
+    margin: 1.2em 0;
+}
+
+#info{
+    margin-top: 28px;
+    color: blue;
+}
+
+.fa-birthday-cake{
+    -webkit-text-fill-color: white; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;
+}
+
+.fa-calendar-check-o{
+    -webkit-text-fill-color: white; -webkit-text-stroke-width: 1px; -webkit-text-stroke-color: black;
+}
+
+.contain{
+    margin-top: 15px;
+}
+
+.column1{
+    float: left;
+    width: 49.5%;
+}
+
+.column2{
+    float: right;
+    width: 49.5%;
+}
+
+.coll1{
+    border-left: 8px solid green;
+    float: left;
+    width: 49.5%;
+}
+
+.coll2{
+    border-left: 8px solid red;
+    float: right;
+    width: 49.5%;
+}
+
+.dollar1{
+    color: green;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.dollar2{
+    color: red;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.small1{
+    text-align: center;
+    font-size: smaller;
+    color: rgb(33, 85, 85);
+}
+
+.box1{
+    text-emphasis-color: gray;
+    color: gray;
+    text-align: center;
+    margin-top: 30px;
+    background-color: #f2f6fa;
+}
+
+.boxtext{
+    position: relative;
+    top: 12px;
+    margin-left: 25px;
+}
+
+.container1{
+    margin-top: 25px;
+    margin-left: 37px;
+    margin-right: 20px;
+    margin-bottom: 12.5px;
+}
+
+.container2{
+    margin-top: 12.5px;
+    margin-left: 37px;
+    margin-right: 20px;
+    margin-bottom: 12.5px;
+}
+
+.container3{
+    margin-top: 12.5px;
+    margin-left: 37px;
+    margin-right: 20px;
+    margin-bottom: 12.5px;
+}
+
+.texts{
+    color: gray;
+    text-align: center;
+}
+
+.tt{
+    display: inline;
+    font-weight: 800;
+}
+
+.available{
+    margin-left: 37px;
+}
+
+.loyalty{
+    margin-top: 40px;
+    font-weight: 900;
+    margin-bottom: 30px;
+}
+
+.second{
+    margin-top: 15px;
+}
+
+.shift{
+    position: relative;
+    left: 250px;
+}
+
+.bonus{
+    margin-top: 25px;
+}
+
+.profile-userbuttons button1{
+    color: blue;
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(194, 185, 185, 0.2), 0 6px 20px 0 rgba(194, 185, 185, 0.2);
+    background: transparent;
+    display: inline-block;
+    border: transparent;
+    transition: all 0.4s ease 0s;
+    margin-left: 40px;
+    margin-top: 20px;
+    width: 70%;
+    padding: 1rem 0rem;
+    
+      
+}
+
+.btn1{
+    color: blue;
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(50, 96, 197, 0.2), 0 6px 20px 0 rgba(50, 96, 197, 0.2);
+    background: transparent;
+    display: inline-block;
+    border: blue;
+    transition: all 0.4s ease 0s;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 40%;
+    padding: 1rem 0rem;
+}
+
+.btn2{
+    color: white;
+    border-radius: 30px;
+    box-shadow: 0 8px 16px 0 rgba(221, 38, 38, 0.2), 0 6px 20px 0 rgba(228, 45, 45, 0.19);
+    background: #be1c1c;
+    display: inline-block;
+    border: red;
+    transition: all 0.4s ease 0s;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 40%;
+    padding: 1rem 0rem;
+}
+
+    
